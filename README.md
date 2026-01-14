@@ -4,8 +4,11 @@ This repo is for showcasing my private full stack project.
 
 Tykki-Intra is a orchester management web application to one day (maybe) replace the good old SoppaIntra. Intended main features include event scheduling and membership management.
 
-Frontend: Svelte (typescript)
-Backend: Axum (rust)
+## Backend
+Axum (rust): ~1.5k lines of code.
+
+## Frontend
+Svelte (typescript): ~1.3k lines of code.
 
 ## Screenshots
 
