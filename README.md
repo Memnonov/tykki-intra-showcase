@@ -7,19 +7,29 @@ Tykki-Intra is a orchester management web application to one day (maybe) replace
 # Tech
 
 ## Backend
-🦀 __Axum__ (rust): ~1.5k lines of code.
+🦀 __Axum__ (rust): ~1.5k lines of code. *Blazingly fast!*
+📦 Using libraries such as:
+-serde
+-SeaORM
+-lettre
+-dotenvy
+-jsonwebtoken.
 
 ## Frontend
-🖥️ __Svelte__ (typescript): ~1.3k lines of code.
+🖥️ __SvelteKit__ (typescript): ~1.3k lines of code. *Graceful and stylish*
+✨ --Tailwind CSS__: I don't like writing CSS!
+
+## Database
+🗄️ __SQLite__ (sql): *Simple and lightweight*
 
 # Screenshots
 
-## Login Screen
+### Login Screen
 ![login](./assets/login.png)
 
-## Band Management
+### Band Management
 ![management](./assets/manage.png)
 
-## Browse Members
+### Browse Members
 ![browse members](./assets/browse_members.png)
 
