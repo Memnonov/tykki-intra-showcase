@@ -9,4 +9,8 @@ Backend: Axum (rust)
 
 ## Screenshots
 
+### Login Screen
 ![login](./assets/login.png)
+
+### Band Management
+![management](./assets/manage.png)
