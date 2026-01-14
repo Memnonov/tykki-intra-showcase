@@ -7,7 +7,7 @@ Tykki-Intra is a orchester management web application to one day (maybe) replace
 ## Tech
 
 ### Backend
-🦀 __Axum__ (rust): ~1.5k lines of code. *Blazingly fast!*
+🦀 __Axum__ (rust): ~1.5k lines of code. *Blazingly fast! Async.*
 
 📦 Using libraries such as:
 
@@ -25,6 +25,9 @@ Tykki-Intra is a orchester management web application to one day (maybe) replace
 ### Database
 🗄️ __SQLite__ (sql): *Simple and lightweight*
 
+### Containerization
+🐳 __Docker__: Everything runs in a single container. *Easy deployment*
+
 ## Screenshots
 
 ### Login Screen
@@ -36,3 +39,5 @@ Tykki-Intra is a orchester management web application to one day (maybe) replace
 ### Browse Members
 ![browse members](./assets/browse_members.png)
 
+### Manage Board Members
+![manage board](./assets/manage_board.png)
