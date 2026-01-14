@@ -44,3 +44,6 @@ Tykki-Intra is a orchester management web application to one day (maybe) replace
 
 ### Server
 ![it's alive](./assets/runnin.png)
+
+### Code actually exists
+![we have code](./assets/code.png)
